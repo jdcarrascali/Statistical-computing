@@ -1,30 +1,30 @@
-# Bases de Datos y Consulta Avanzada | Database Management & Querying
+# Statistical Computing
 
-Repositorio correspondiente al trabajo analítico y proyectos aplicados del curso de **Bases de Datos / Computación Estadística** en la **Universidad Nacional de Colombia**.
-
----
-
-### Descripción del Curso y Enfoque Práctico
-El objetivo principal del curso fue el dominio intensivo de la sintaxis y estructuración de bases de datos relacionales para la extracción, transformación y análisis riguroso de datos a gran escala, integrando múltiples entornos analíticos:
-
-- **Sintaxis y Consultas Avanzadas en SQL:**
-  - Diseño de consultas complejas, subconsultas anidadas y uniones relacionales (`INNER`, `LEFT`, `OUTER JOINs`).
-  - Uso de expresiones de tabla comunes (`CTEs`), funciones de agregación y funciones de ventana (`Window Functions`) para cálculo de métricas analíticas.
-  - Normalización, integridad referencial y optimización de consultas.
-
-- **Integración Multi-entorno:**
-  - **Python:** Conexión a motores relacionales y ejecución de flujos de extracción y preparación de datos (`pandas`, conectores SQL).
-  - **R:** Conectividad a bases de datos (`DBI`, manipulación relacional) para pipelines estadísticos.
-  - **SAS:** Uso intensivo de `PROC SQL`, manipulación de tablas SAS y cruces masivos de datos para análisis cuantitativo.
-
-- **Proyectos Aplicados:**
-  - Desarrollo de casos prácticos integrales que abarcaron desde el diseño del esquema relacional y la ingesta de datos hasta la generación de tablas analíticas consolidadas para inferencia y modelación.
+Academic repository documenting applied analytical projects and coursework from the **Statistical Computing** course at **Universidad Nacional de Colombia** (Department of Statistics).
 
 ---
 
-### Herramientas y Tecnologías
+### Course Overview & Core Focus
+The course focused on intensive relational database management, data structuring, and advanced querying for large-scale data extraction, transformation, and statistical analysis across multiple analytical environments:
+
+- **Advanced SQL Querying & Relational Modeling:**
+  - Complex multi-table joins (`INNER`, `LEFT`, `OUTER JOINs`), nested subqueries, and set operations.
+  - Common Table Expressions (`CTEs`), advanced aggregations, and `Window Functions` for analytical metric computation.
+  - Relational schema structuring, data normalization, and query design.
+
+- **Multi-Environment Integration:**
+  - **Python:** Database connectivity, automated query execution, and data ingestion pipelines (`pandas`, SQL drivers).
+  - **R:** Interfacing relational databases (`DBI`, relational data manipulation) for statistical modeling workflows.
+  - **SAS:** Intensive use of `PROC SQL`, dataset merging, and manipulation of large enterprise tables for quantitative analysis.
+
+- **Applied Projects:**
+  - End-to-end analytical case studies covering schema ingestion, data validation, and the consolidation of modeling-ready tables for statistical inference.
+
+---
+
+### Tools & Technologies
 `SQL` | `PostgreSQL` | `Python` | `R` | `SAS (PROC SQL)`
 
 ---
 
-> *Nota: Este repositorio documenta la arquitectura metodológica, el diseño de consultas intensivas y los casos de estudio analíticos desarrollados a lo largo del curso.*
+> *Note: This repository outlines the methodological architecture, query design patterns, and case studies developed throughout the course.*
